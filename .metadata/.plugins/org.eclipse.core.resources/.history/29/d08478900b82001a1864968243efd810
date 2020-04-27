@@ -1,0 +1,27 @@
+package StepDefination;
+
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.When;
+
+public class TaskStepDefinition 
+{
+	//Given an user opens browser and URL
+	@Given("^an user opens browser and URL$")
+	
+		public void OpensBrowser()
+		{
+			System.out.println("open browser");
+		}
+	@When("^the user enters the UserName and password$")
+	    
+	  public void EnterDetails()
+	  {
+		System.out.println("Enter username and password");
+	  }
+	
+	
+	
+	
+	
+	
+}

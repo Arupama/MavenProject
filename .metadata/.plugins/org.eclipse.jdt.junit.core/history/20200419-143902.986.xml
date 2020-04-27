@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CucumberRun" project="ActitimeCucumber" tests="1" started="1" failures="0" errors="6" ignored="0">
+  <testsuite name="RunnerFiles.CucumberRun" time="125.725">
+    <testsuite name="This feature is used test task functionality" time="125.725">
+      <testcase name="This scenario is used to create customer" classname="This feature is used test task functionality" time="125.725">
+        <error>org.openqa.selenium.WebDriverException: Failed to connect to binary FirefoxBinary(C:\Program Files\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+ia","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["sk"]},{"name":"ViquipÃ¨dia (ca)","description":"L'enciclopÃ¨dia lliure","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["ca"]},{"name":"Wikipedia (af)","description":"Wikipedia, die vrye ensiklopedie","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["af"]},{"name":"ÙˆÛŒÚ©ÛŒâ€ŒÙ¾Ø¯ÛŒØ§ (fa)","description":"ÙˆÛŒÚ©ÛŒâ€ŒÙ¾Ø¯ÛŒØ§ØŒ Ø¯Ø§Ù†Ø´Ù†Ø§Ù…Ù‡Ù” Ø¢Ø²Ø§Ø¯","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["fa"]},{"name":"Wikipedia (ms)","description":"Wikipedia, ensiklopedia bebas","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["ms"]},{"name":"Wikipedia (ia)","description":"Wikipedia, le encyclopedia libere","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["ia"]},{"name":"Wikipedia (no)","description":"Wikipedia, den frie encyklopedi","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["NO"]},{"name":"Ð’Ð¸ÐºÐ¸Ð¿ÐµÐ´Ð¸Ñ� (ru)","description":"Ð’Ð¸ÐºÐ¸Ð¿ÐµÐ´Ð¸Ñ�, Ñ�Ð²Ð¾Ð±Ð¾Ð´Ð½Ð°Ñ� Ñ�Ð½Ñ†Ð¸ÐºÐ»Ð¾Ð¿ÐµÐ´Ð¸Ñ�","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["ru"]},{"name":"Wikipedia (br)","description":"Wikipedia, an holloueziadur digor","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["br"]},{"name":"Wikipedia (pl)","description":"Wikipedia, wolna encyklopedia","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["pl"]},{"name":"Ð’Ñ–ÐºÑ–Ð¿Ñ�Ð´Ñ‹Ñ� (be-tarask)","description":"Ð’Ñ–ÐºÑ–Ð¿Ñ�Ð´Ñ‹Ñ�, Ð²Ð¾Ð»ÑŒÐ½Ð°Ñ� Ñ�Ð½Ñ†Ñ‹ÐºÐ»Ñ�Ð¿Ñ�Ð´Ñ‹Ñ�","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["be-tarask"]},{"name":"Wikipedia (sv)","description":"Wikipedia, den fria encyklopedin","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["sv-SE"]},{"name":"àº§àº´àº�àº´àºžàºµà»€àº”àº� (lo)","description":"àº§àº´àº�àº´àºžàºµà»€àº”àº�, àºªàº²àº¥àº²àº™àº¸àº�àº»àº¡à»€àºªàº¥àºµ","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["lo"]},{"name":"Wikipedija (sl)","description":"Wikipedija, prosta enciklopedija","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["sl"]},{"name":"VikipÄ“dija","description":"VikipÄ“dija, brÄ«vÄ� enciklopÄ“dija","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["lv"]},{"name":"Biquipedia (an)","description":"A enciclopedia Libre","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["an"]}],"targetApplications":[{"id":"toolkit@mozilla.org","minVersion":null,"maxVersion":null}],"targetPlatforms":[],"seen":true,"dependencies":[],"incognito":"spanning","userPermissions":{"permissions":[],"origins":[]},"optionalPermissions":{"permissions":[],"origins":[]},"icons":{"16":"favicon.ico"},"iconURL":null,"blocklistState":0,"blocklistURL":null,"startupData":null,"hidden":true,"installTelemetryInfo":null,"recommendationState":null,"rootURI":"resource://search-extensions/wikipedia/","location":"app-builtin"}&#13;
+1587287413794	addons.xpi	DEBUG	Loading bootstrap scope from resource://search-extensions/wikipedia/&#13;
+1587287413795	addons.xpi	DEBUG	Calling bootstrap method install on wikipedia@search.mozilla.org version 1.0&#13;
+1587287413795	addons.xpi	DEBUG	Calling bootstrap method startup on wikipedia@search.mozilla.org version 1.0&#13;
+1587287427201	addons.productaddons	INFO	sending request to: https://aus5.mozilla.org/update/3/GMP/75.0/20200403170909/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%206.1.1.0.7601%20(x64)/default/default/update.xml&#13;
+1587287427275	addons.productaddons	INFO	Completed downloading document&#13;
+console.warn: services.settings: main/cfr sync already running&#13;
+1587287429241	addons.productaddons	INFO	downloadXHR File download. status=200&#13;
+1587287429663	addons.productaddons	INFO	Downloaded file will be saved to C:\Users\Rinky\AppData\Local\Temp\tmpaddon-c81931&#13;
+
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'ArupamaMohanty', ip: '192.168.0.101', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_171'
+Driver info: driver.version: FirefoxDriver&#13;
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:125)&#13;
+	at org.openqa.selenium.firefox.FirefoxDriver.startClient(FirefoxDriver.java:271)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:119)&#13;
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:216)&#13;
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:211)&#13;
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:207)&#13;
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:120)&#13;
+	at StepDefination.TaskStepDefinition.OpensBrowser(TaskStepDefinition.java:19)&#13;
+	at ✽.an user opens browser and URL(file:///D:/my%20selenium%20best/MavenProject/ActitimeCucumber/src/main/resources/FeatureFile/Tasks.feature:6)&#13;
+Caused by: org.openqa.selenium.firefox.NotConnectedException: Unable to connect to host 127.0.0.1 on port 7055 after 45000 ms. Firefox console output:
+ia","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["sk"]},{"name":"ViquipÃ¨dia (ca)","description":"L'enciclopÃ¨dia lliure","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["ca"]},{"name":"Wikipedia (af)","description":"Wikipedia, die vrye ensiklopedie","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["af"]},{"name":"ÙˆÛŒÚ©ÛŒâ€ŒÙ¾Ø¯ÛŒØ§ (fa)","description":"ÙˆÛŒÚ©ÛŒâ€ŒÙ¾Ø¯ÛŒØ§ØŒ Ø¯Ø§Ù†Ø´Ù†Ø§Ù…Ù‡Ù” Ø¢Ø²Ø§Ø¯","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["fa"]},{"name":"Wikipedia (ms)","description":"Wikipedia, ensiklopedia bebas","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["ms"]},{"name":"Wikipedia (ia)","description":"Wikipedia, le encyclopedia libere","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["ia"]},{"name":"Wikipedia (no)","description":"Wikipedia, den frie encyklopedi","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["NO"]},{"name":"Ð’Ð¸ÐºÐ¸Ð¿ÐµÐ´Ð¸Ñ� (ru)","description":"Ð’Ð¸ÐºÐ¸Ð¿ÐµÐ´Ð¸Ñ�, Ñ�Ð²Ð¾Ð±Ð¾Ð´Ð½Ð°Ñ� Ñ�Ð½Ñ†Ð¸ÐºÐ»Ð¾Ð¿ÐµÐ´Ð¸Ñ�","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["ru"]},{"name":"Wikipedia (br)","description":"Wikipedia, an holloueziadur digor","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["br"]},{"name":"Wikipedia (pl)","description":"Wikipedia, wolna encyklopedia","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["pl"]},{"name":"Ð’Ñ–ÐºÑ–Ð¿Ñ�Ð´Ñ‹Ñ� (be-tarask)","description":"Ð’Ñ–ÐºÑ–Ð¿Ñ�Ð´Ñ‹Ñ�, Ð²Ð¾Ð»ÑŒÐ½Ð°Ñ� Ñ�Ð½Ñ†Ñ‹ÐºÐ»Ñ�Ð¿Ñ�Ð´Ñ‹Ñ�","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["be-tarask"]},{"name":"Wikipedia (sv)","description":"Wikipedia, den fria encyklopedin","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["sv-SE"]},{"name":"àº§àº´àº�àº´àºžàºµà»€àº”àº� (lo)","description":"àº§àº´àº�àº´àºžàºµà»€àº”àº�, àºªàº²àº¥àº²àº™àº¸àº�àº»àº¡à»€àºªàº¥àºµ","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["lo"]},{"name":"Wikipedija (sl)","description":"Wikipedija, prosta enciklopedija","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["sl"]},{"name":"VikipÄ“dija","description":"VikipÄ“dija, brÄ«vÄ� enciklopÄ“dija","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["lv"]},{"name":"Biquipedia (an)","description":"A enciclopedia Libre","creator":null,"developers":null,"translators":null,"contributors":null,"locales":["an"]}],"targetApplications":[{"id":"toolkit@mozilla.org","minVersion":null,"maxVersion":null}],"targetPlatforms":[],"seen":true,"dependencies":[],"incognito":"spanning","userPermissions":{"permissions":[],"origins":[]},"optionalPermissions":{"permissions":[],"origins":[]},"icons":{"16":"favicon.ico"},"iconURL":null,"blocklistState":0,"blocklistURL":null,"startupData":null,"hidden":true,"installTelemetryInfo":null,"recommendationState":null,"rootURI":"resource://search-extensions/wikipedia/","location":"app-builtin"}&#13;
+1587287413794	addons.xpi	DEBUG	Loading bootstrap scope from resource://search-extensions/wikipedia/&#13;
+1587287413795	addons.xpi	DEBUG	Calling bootstrap method install on wikipedia@search.mozilla.org version 1.0&#13;
+1587287413795	addons.xpi	DEBUG	Calling bootstrap method startup on wikipedia@search.mozilla.org version 1.0&#13;
+1587287427201	addons.productaddons	INFO	sending request to: https://aus5.mozilla.org/update/3/GMP/75.0/20200403170909/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%206.1.1.0.7601%20(x64)/default/default/update.xml&#13;
+1587287427275	addons.productaddons	INFO	Completed downloading document&#13;
+console.warn: services.settings: main/cfr sync already running&#13;
+1587287429241	addons.productaddons	INFO	downloadXHR File download. status=200&#13;
+1587287429663	addons.productaddons	INFO	Downloaded file will be saved to C:\Users\Rinky\AppData\Local\Temp\tmpaddon-c81931&#13;
+&#13;
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.start(NewProfileExtensionConnection.java:113)&#13;
+	at org.openqa.selenium.firefox.FirefoxDriver.startClient(FirefoxDriver.java:271)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:119)&#13;
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:216)&#13;
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:211)&#13;
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:207)&#13;
+	at org.openqa.selenium.firefox.FirefoxDriver.&lt;init&gt;(FirefoxDriver.java:120)&#13;
+	at StepDefination.TaskStepDefinition.OpensBrowser(TaskStepDefinition.java:19)&#13;
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)&#13;
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)&#13;
+	at java.lang.reflect.Method.invoke(Unknown Source)&#13;
+	at io.cucumber.java.Invoker.invoke(Invoker.java:27)&#13;
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:27)&#13;
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)&#13;
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:64)&#13;
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:49)&#13;
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:46)&#13;
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:51)&#13;
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:67)&#13;
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:149)&#13;
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:83)&#13;
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:24)&#13;
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)&#13;
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)&#13;
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)&#13;
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:185)&#13;
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:83)&#13;
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)&#13;
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)&#13;
+	at io.cucumber.junit.Cucumber$RunCucumber.evaluate(Cucumber.java:219)&#13;
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:538)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:760)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:460)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:206)&#13;
+&#13;
+io.cucumber.junit.UndefinedStepException: The step "the user click on tasks tab" is undefined. You can implement it using the snippet(s) below:
+
+@When("the user click on tasks tab")
+public void the_user_click_on_tasks_tab() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@Then("the Tasks page should be displayed")
+public void the_Tasks_page_should_be_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("the user clicks on new add new button")
+public void the_user_clicks_on_new_add_new_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("the user enters the customer name and description")
+public void the_user_enters_the_customer_name_and_description() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("the customer should be created")
+public void the_customer_should_be_created() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+&#13;
+&#13;
+io.cucumber.junit.UndefinedStepException: The step "the Tasks page should be displayed" is undefined. You can implement it using the snippet(s) below:
+
+@Then("the Tasks page should be displayed")
+public void the_Tasks_page_should_be_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@When("the user clicks on new add new button")
+public void the_user_clicks_on_new_add_new_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("the user enters the customer name and description")
+public void the_user_enters_the_customer_name_and_description() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("the customer should be created")
+public void the_customer_should_be_created() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+&#13;
+&#13;
+io.cucumber.junit.UndefinedStepException: The step "the user clicks on new add new button" is undefined. You can implement it using the snippet(s) below:
+
+@When("the user clicks on new add new button")
+public void the_user_clicks_on_new_add_new_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@When("the user enters the customer name and description")
+public void the_user_enters_the_customer_name_and_description() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("the customer should be created")
+public void the_customer_should_be_created() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+&#13;
+&#13;
+io.cucumber.junit.UndefinedStepException: The step "the user enters the customer name and description" is undefined. You can implement it using the snippet(s) below:
+
+@When("the user enters the customer name and description")
+public void the_user_enters_the_customer_name_and_description() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@Then("the customer should be created")
+public void the_customer_should_be_created() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+&#13;
+&#13;
+io.cucumber.junit.UndefinedStepException: The step "the customer should be created" is undefined. You can implement it using the snippet(s) below:
+
+@Then("the customer should be created")
+public void the_customer_should_be_created() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+&#13;
+&#13;
+</error>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>

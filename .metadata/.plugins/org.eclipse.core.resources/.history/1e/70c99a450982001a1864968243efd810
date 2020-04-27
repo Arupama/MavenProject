@@ -1,0 +1,18 @@
+package StepDefination;
+
+import io.cucumber.java.en.Given;
+
+public class TaskStepDefinition 
+{
+	//Given an user opens browser and URL
+	@Given("^an user opens browser and URL$")
+	{
+		
+	}
+	
+	
+	
+	
+	
+	
+}

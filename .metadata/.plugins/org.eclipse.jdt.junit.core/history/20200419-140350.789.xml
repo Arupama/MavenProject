@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CucumberRun" project="ActitimeCucumber" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="RunnerFiles.CucumberRun" time="0.0">
+    <testsuite name="This feature is used test task functionality" time="0.0">
+      <testcase name="This scenario is used to create customer" classname="This feature is used test task functionality" time="0.0">
+        <skipped>io.cucumber.junit.UndefinedStepException: The step "the user click on tasks tab" is undefined. You can implement it using the snippet(s) below:
+
+@When("the user click on tasks tab")
+public void the_user_click_on_tasks_tab() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@Then("the Tasks page should be displayed")
+public void the_Tasks_page_should_be_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("the user clicks on new add new button")
+public void the_user_clicks_on_new_add_new_button() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("the user enters the customer name and description")
+public void the_user_enters_the_customer_name_and_description() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("the customer should be created")
+public void the_customer_should_be_created() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+&#13;
+&#13;
+</skipped>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testrun>

@@ -1,0 +1,38 @@
+@tasks
+Feature: This feature is used test task functionality
+
+@CreateCustomer@Smoke
+Scenario: This scenario is used to create customer
+Given an user opens browser and URL
+When the user enters the UserName and password
+And click login button
+Then the login page should be displayed
+when the user click on tasks tab
+Then the Tasks page should be displayed
+When the user clicks on new add new button
+Then the create customer PopUp should appear
+When the user enters the customer name and description
+And click on create customer button
+Then the customer should be created
+
+@Modify Customer@Smoke
+Given an user opens the browser and URL
+when the user enter UserName and password
+And clicks on login button
+Then the User should be logged into the application 
+When the User click on tasks tab
+Then the tasks tab should be displayed
+
+@delete customer
+Scenario:This scenario is used to delete customer
+Given as user opens browser and URL
+When the user enters the UserName and password
+And clicks on login button
+Then the login page should be displayed
+When the user click on TaskTab
+Then the tasks page should be displayed
+When the user searches for the customer
+And clicks on setting button 
+And clicks on Actions button
+And clicks on delete Permanently button
+Then the customer should be deleted.

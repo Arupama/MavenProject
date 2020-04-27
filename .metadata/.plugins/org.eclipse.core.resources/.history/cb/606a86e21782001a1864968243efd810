@@ -1,0 +1,19 @@
+package RunnerFiles;
+
+import io.cucumber.junit.Cucumber;
+
+@RunWith(Cucumber.class)
+@CucumberOptions(
+		glue={"StepDefination"}
+		Feature="src/main/resources/FeatureFile"
+		tag={"@CreateCustomer"}
+		
+		
+		
+		)
+
+
+public class CucumberRun 
+{
+
+}

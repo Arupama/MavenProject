@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ActitimeCucumber/src/main/resources/FeatureFile/Task.file&apos; to &apos;Task.feature&apos;" description="Rename resource &apos;Task.file&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/FeatureFile/Task.file" name="Task.feature" stamp="1586594392233" updateReferences="true"/>
+</session>
